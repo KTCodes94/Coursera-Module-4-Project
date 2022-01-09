@@ -1,0 +1,11 @@
+* {
+  font-family: cursive;
+  text-align: center;
+  margin: 20px;
+  background-color: lightslategray;
+}
+
+ol {
+  text-align: center;
+  list-style-position: inside;
+}
