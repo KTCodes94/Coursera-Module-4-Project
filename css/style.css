@@ -3,6 +3,8 @@
   text-align: center;
   margin: 20px;
   background-color: lightslategray;
+  border: 2px dashed white;
+  border-radius: 2em;
 }
 
 ol {
