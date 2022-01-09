@@ -12,10 +12,6 @@ ol {
   list-style-position: inside;
 }
 
-p {
-  color: tomato;
-}
-
 @media only screen and (max-width: 790px) {
   img {
     display: block;
