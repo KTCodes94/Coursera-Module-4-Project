@@ -10,7 +10,10 @@
 ol {
   text-align: center;
   list-style-position: inside;
-  color:tomato;
+}
+
+p {
+  color: tomato;
 }
 
 @media only screen and (max-width: 790px) {
